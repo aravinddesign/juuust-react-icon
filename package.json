@@ -19,6 +19,9 @@
     "juuust",
     "design"
   ],
+  "publishConfig": {
+	   "access": "public",
+  },
   "bugs": {
     "url": "https://github.com/leadream/juuust-react-icon/issues"
   },
