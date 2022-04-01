@@ -1,5 +1,5 @@
 {
-  "name": "juuust-react-icon",
+  "name": "@littlejack001/jack-icon",
   "version": "1.0.1",
   "description": "Icon automation workflow with Figma",
   "main": "dist/juuust-react-icon.cjs.js",
